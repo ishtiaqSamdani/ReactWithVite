@@ -39,3 +39,11 @@
 .read-the-docs {
   color: #888;
 }
+
+.link {
+  color: #4eabc5;
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
